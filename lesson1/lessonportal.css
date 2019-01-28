@@ -5,8 +5,8 @@
 * { margin: 0; box-sizing: border-box; } 
 
 body { 
-    font-size: 16px; 
-    line-height: 32px;
+    font-size: 2px; 
+    line-height: 1px;
     font-family: 'Times New Roman', Times, serif;
     color: blue;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    font-size: 32em;
+    font-size: 12em;
     text-align: center;
     border-bottom: 1px solid darkgoldenrod;
 }
