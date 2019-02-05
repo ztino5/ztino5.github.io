@@ -5,41 +5,41 @@
 * { margin: 0; box-sizing: border-box; } 
 
 body { 
-    font-size: 2px; 
-    line-height: 1px;
-    font-family: 'Times New Roman', Times, serif;
-    color: blue;
-}
-
-h1 {
-    font-size: 10em;
+    font-size: 16px; 
+    line-height: 32px;
+    font-family: 'Assistant', sans-serif;
     color: black;
 }
 
+h1 {
+    font-size: 20.rem;
+    color: orange;
+}
+
 h2 {
-    font-size: 12em;
+    font-size: 10.rem;
     text-align: center;
-    border-bottom: 1px solid darkgoldenrod;
+    border-bottom: 1px solid black;
 }
 
 header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
-    max-width: 100%;
+    max-width: 750px;
 }
 
 header, footer, footer a {
     text-align: center;
-    background-color: red;
-    color: whitesmoke;
+    background-color: blue;
+    color: orange;
 }
 
 header img {
-    width: 100px;
-    height: auto;
+    width: 90px;
+    height: 120px;
     float: right;
 }
 
 footer {
-    font-size: 5em;
+    font-size: 10px;
 }
