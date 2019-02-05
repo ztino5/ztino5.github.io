@@ -1,0 +1,53 @@
+header
+{
+ background-color:#65DEF1;
+}
+.logo
+{
+    max-height: 250px;
+    max-width: 100px;
+
+}
+.article{
+    background-color: grey;
+}
+body 
+{
+	background-color: #bbb;
+}
+p
+{
+    
+    font-family: 'Noto Serif SC', serif;
+}
+
+header {
+	margin: 10px auto;
+	background-color: #fff;
+	border: 1px solid #bbb;
+	box-shadow: 0 0 30px #777;
+	text-align: center;
+}
+
+header img, .headings {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+}
+h1{
+   
+    font-family: 'Major Mono Display', monospace;
+}
+.banner{
+    max-height: 150px;
+    max-width:375px;
+}
+.temp{
+    font-size: 73px;
+}
+.map{
+    max-width: 375px;
+}
+.article-image{
+    max-width: 375px;
+}
