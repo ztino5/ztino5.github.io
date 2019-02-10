@@ -1,6 +1,6 @@
 header
 {
- background-color:#65DEF1;
+ background-color:#f17f29;
 }
 .logo
 {
@@ -9,11 +9,11 @@ header
 
 }
 .article{
-    background-color: grey;
+    background-color: #dec2c8;
 }
 body 
 {
-	background-color: #bbb;
+	background-color: #65DEF1;
 }
 p
 {
@@ -23,7 +23,7 @@ p
 
 header {
 	margin: 10px auto;
-	background-color: #fff;
+	background-color: #f17f05;
 	border: 1px solid #bbb;
 	box-shadow: 0 0 30px #777;
 	text-align: center;
