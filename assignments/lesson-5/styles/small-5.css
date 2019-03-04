@@ -1,0 +1,65 @@
+#content{
+    max-width: 960px;
+  max-height: auto;
+  margin: 0 auto;
+}
+header
+{
+ background-color:#f17f29;
+}
+.logo
+{
+    max-height: 250px;
+    max-width: 100px;
+
+}
+.article{
+    background-color: #dec2c8;
+}
+body 
+{
+	background-color: #65DEF1;
+}
+p
+{
+    
+    font-family: 'Noto Serif SC', serif;
+}
+nav{
+    font-size: 20px;
+}
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+header {
+	margin: 10px auto;
+	background-color: #f17f05;
+	border: 1px solid #bbb;
+	box-shadow: 0 0 30px #777;
+	text-align: center;
+}
+
+header img, .headings {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+}
+h1{
+   
+    font-family: 'Major Mono Display', monospace;
+}
+.banner{
+    max-height: 150px;
+    max-width:375px;
+}
+.temp{
+    font-size: 73px;
+}
+.map{
+    max-width: 375px;
+}
+.article-image{
+    max-width: 375px;
+}
