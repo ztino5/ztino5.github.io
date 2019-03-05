@@ -4,10 +4,7 @@
         max-width: 960px;
         margin: 0 auto;
     }
-    body{
-        
-    }
-
+   
     nav ul{
         font-size: 20pxpx;
         list-style: none;
@@ -15,6 +12,9 @@
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
         margin: 0;
       }
+    nav ul.hide{
+        display: grid;
+    }
       .forcast{
           display: block;
           margin-left: auto;
@@ -30,11 +30,11 @@
           height: 300px;
          
       }
-      button{
-          display: none;
-      }
+ button{
+     display: none;
+ }
+}
 
-
-    }
+   
 
    
