@@ -1,0 +1,17 @@
+"Franklin":{
+    "city": "Franklin",
+    "state": "ID",
+    "High" : 64,
+    "Low" : 41,
+    "temp": 40,
+    "Precp": 0,
+    "Wind" : "5",
+    "Direction": "SW",
+    "Gusts": "10-12",
+    "Summary": "Rain",
+    "Longitued": 111.79,
+    "latitude": 42.07,
+    "Elevation" : 1514.246,
+    "Zip":83237,
+    "Hourly"
+}
