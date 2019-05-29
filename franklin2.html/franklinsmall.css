@@ -1,0 +1,81 @@
+.logo{
+    max-width: 40px;
+    height: 40px;
+}
+#titletop{
+    background-color: #0e89d5;
+}
+.titlebanner{
+   display: inline;
+   padding-left:30px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.endlist{
+    display: inline;
+    padding: 10px;
+    color: blue;
+}
+a{
+    color: white;
+}
+#lastlist{
+
+    background-color:#0e89d5;
+    height: 30px;
+}
+.copy{
+    background-color:#0e89d5;
+}
+
+#topinfo{
+    font-size: .70em;
+   
+    padding-left: 50px;
+}
+.content{
+    max-width: 960px;
+    max-height: auto;
+    margin: 0 auto;
+}
+.rcorners{
+    align-self:center;
+    Background-color:rgba(200,200,200,6);
+margin:.2em auto;
+border:1px solid;
+border-radius:15px;
+}
+.tempature{
+    text-align: center;
+}
+.wind{
+    text-align: center;
+}
+.weather{
+    text-align: center;
+}
+.rain{
+    height: 100%;
+    width: 100%;
+}
+.windmph{
+    position: relative;
+    top: 100px;
+}
+.gauge{
+    transform: rotate(240deg);
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Sansita', sans-serif;
+}
+p,ul,li,div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.locinfo{
+    font-size: 1.3em;
+    padding-right: 70px;
+}
+.franklinhead{
+ font-size: 3em;
+}

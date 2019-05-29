@@ -1,0 +1,11 @@
+#rcorners1{
+    align-self:center;
+    Background-color:rgba(200,200,200,6);
+margin:.2em auto;
+border:1px solid;
+border-radius:15px;
+}
+.work{
+    height: 100%;
+    text-align: center;
+}
