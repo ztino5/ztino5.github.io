@@ -13,7 +13,6 @@ p,ul,li,div{
 
 .content{
     max-width: 960px;
-    max-height: auto;
     margin: 0 auto;
 }
 
@@ -46,7 +45,10 @@ p,ul,li,div{
     padding-left: 50px;
 }
 
+/* the following code bellow is for mobile only */
 
+ @media only screen and (max-width: 600px)
+ {
 .franklinhead{
  font-size: 3em;
 }
@@ -113,3 +115,4 @@ border-radius:15px;
     padding: 10px;
     color: blue;
 }
+ }
