@@ -72,9 +72,11 @@ border-radius:15px;
 }
 .tempature{
     text-align: center;
+    font-size: 1.25em;
 }
 .wind{
     text-align: center;
+    font-size: 2em;
 }
 .weather{
     text-align: center;
@@ -90,12 +92,17 @@ border-radius:15px;
 .gauge{
     transform: rotate(240deg);
 }
-
+.current{
+    font-size: 3em;
+}
 .high {
     color: red;
 }
 .low{
     color:blue;
+}
+.temp{
+    font-size: 2em;
 }
 
 /* This is the CSS code for the footer */
