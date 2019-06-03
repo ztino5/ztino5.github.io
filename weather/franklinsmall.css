@@ -73,6 +73,7 @@ border-radius:15px;
 .tempature{
     text-align: center;
     font-size: 1.25em;
+    
 }
 .wind{
     text-align: center;
@@ -97,6 +98,9 @@ border-radius:15px;
 }
 .high {
     color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .low{
     color:blue;
