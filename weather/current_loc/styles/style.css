@@ -48,7 +48,7 @@ p,ul,li,div{
 /* the following code bellow is for mobile only */
 
  /* @media only screen and (max-width: 600px) */
- {
+ 
 .franklinhead{
  font-size: 3em;
 }
@@ -129,4 +129,4 @@ border-radius:15px;
     padding: 10px;
     color: blue;
 }
- }
+ 

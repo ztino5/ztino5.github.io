@@ -229,7 +229,7 @@ h1 {
 * 1200px viewport / 18px font = 66.7em
 ********************************/
 
-@media (min-width: 66.7em) {
+@media (min-width: 66.7em) { */
 	body {
 		font-size: 1.5vw;
 	}
