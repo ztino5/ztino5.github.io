@@ -1,0 +1,44 @@
+
+
+.back-image{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    float: right;
+
+
+}
+nav{
+    background-color: #de2226;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   
+   
+   
+
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+a{
+    width: 100%;
+}
+
+header
+{
+
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    
+    
+}
+li{
+    display:inline-block;
+
+}
