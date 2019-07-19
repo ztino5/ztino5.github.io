@@ -1,0 +1,49 @@
+#content{
+    width: 100%;
+}
+.image{
+    
+    width: 100%;
+    
+}
+.img-wrap{
+    display: flex;
+    width: 300px;
+}
+
+.article{
+    display: flex;
+    align-content: flex-end;
+    align-items: flex-end;
+}
+main{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+}
+.price{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    color: #990033;
+}
+/* @media only screen and( min-width:1000px)
+{
+    .img-wrap
+    {
+        display: flex;
+        width: 100%;
+        margin: 0;
+        float: left;
+    }
+       
+       
+    }
+    
+    .info{
+        display: flex;
+        width: 50%;
+        float: right;
+        align-content: center;
+
+    }
+}
