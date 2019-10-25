@@ -1,3 +1,40 @@
+
+html{
+    box-sizing: border-box;
+    
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+} 
+
 body{
-    margin: 0px;
+    padding: 0% 10px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+}
+
+main,header{
+    max-width: 1213px;
+    margin: auto;
+    
+}
+header nav a{
+    padding: 15px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #001430;
+    width: 100%;
+    text-align: center;
+}
+header nav a:hover{
+    background: #001430;
+    color: white;
+}
+header nav a:active{
+    background: #001430;
+    text-decoration: underline;
+    color: #cccccc;
 }
