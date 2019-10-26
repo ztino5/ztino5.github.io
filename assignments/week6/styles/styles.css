@@ -175,7 +175,7 @@ article img{
     color:#666666;
     border: 1px solid #666666;
 }
-.button :hover{
+.button:hover{
     color: #ffffff;
     border: 1px solid #001430;
     background-color: #ffffff;
