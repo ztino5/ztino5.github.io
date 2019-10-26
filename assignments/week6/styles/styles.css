@@ -19,7 +19,7 @@ main,header{
     margin: auto;
     
 }
-header nav a{
+header nav a:link, header nav a:visited{
     padding: 15px;
     display: inline-block;
     font-weight: bold;
@@ -178,10 +178,40 @@ article img{
 .button:hover{
     color: #ffffff;
     border: 1px solid #001430;
-    background-color: #ffffff;
+    background: #001430;
 }
 .button:active{
     color: #ffffff;
     text-decoration: underline;
     background-color: #001430;
 }
+
+footer{
+    background: #001430;
+    color: white;
+    padding: 30px;
+    line-height: 1.25em;
+    font-size: .8em;
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer p{
+    line-height: .4em;
+}
+
+.social li{
+    display: inline-block;
+}
+
+footer a, footer a:visited{
+    color: #999999;
+}
+footer a:hover{
+    color:#bbb;
+}
+footer a:active{
+    color:#ffffff;
+}
+
+
